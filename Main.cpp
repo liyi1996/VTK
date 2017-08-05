@@ -17,6 +17,7 @@
 #include<vector>
 #include<cmath>
 #include<Windows.h>
+#include<cctype>
 #include<ctime>
 #include <vtkAutoInit.h>
 VTK_MODULE_INIT(vtkRenderingOpenGL2);
